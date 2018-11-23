@@ -1,4 +1,4 @@
-Introduction to Boosted Trees — xgboost 0.81 documentation
+Introduction to Boosted Trees ï¿½ xgboost 0.81 documentation
 https://xgboost.readthedocs.io/en/latest/tutorials/model.html
 
 Understanding the Math behind the XGBoost Algorithm
@@ -7,16 +7,16 @@ https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-t
 A Kaggle Master Explains Gradient Boosting | No Free Hunch
 http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
 
-Boosting algorithm: XGBoost – Towards Data Science
+Boosting algorithm: XGBoost ï¿½ Towards Data Science
 https://towardsdatascience.com/boosting-algorithm-xgboost-4d9ec0207d
 
-Adam?—?latest trends in deep learning optimization.
+Adam?ï¿½?latest trends in deep learning optimization.
 https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
 
-AdamW and Super-convergence is now the fastest way to train neural nets · fast.ai
+AdamW and Super-convergence is now the fastest way to train neural nets ï¿½ fast.ai
 https://www.fast.ai/2018/07/02/adam-weight-decay/
 
-The Inverse Matrix of the Transpose is the Transpose of the Inverse Matrix – Problems in Mathematics
+The Inverse Matrix of the Transpose is the Transpose of the Inverse Matrix ï¿½ Problems in Mathematics
 https://yutsumura.com/the-inverse-matrix-of-the-transpose-is-the-transpose-of-the-inverse-matrix/
 
 linear algebra - In which cases is the inverse matrix equal to the transpose? - Mathematics Stack Exchange
@@ -25,10 +25,10 @@ https://math.stackexchange.com/questions/156735/in-which-cases-is-the-inverse-ma
 Building a data pipeline
 https://cs230-stanford.github.io/tensorflow-input-data.html
 
-Data Input Pipeline Performance  |  TensorFlow
+Data Input Pipeline Performance ï¿½|ï¿½ TensorFlow
 https://www.tensorflow.org/guide/performance/datasets
 
-Datasets for Estimators  |  TensorFlow
+Datasets for Estimators ï¿½|ï¿½ TensorFlow
 https://www.tensorflow.org/guide/datasets_for_estimators
 
 TensorFlow Dataset tutorial - build high performance data pipelines
